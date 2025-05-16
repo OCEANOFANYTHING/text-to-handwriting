@@ -1,3 +1,5 @@
 User-agent: *
 
 Allow: /
+
+sitemap: https://oceanofanything.github.io/text-to-handwriting/sitemap.xml
