@@ -16,6 +16,6 @@
   "theme_color": "#09f",
   "background_color": "#ddd",
   "display": "standalone",
-  "start_url": "https://oceanofanythingofficial.github.io/text-to-handwriting",
-  "description": "I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛"
+  "start_url": "https://oceanofanything.github.io/text-to-handwriting",
+  "description": "Text to Handwriting is a free tool that converts normal text to human like handwriting for free. Here, you also get more than 50 handwriting styles to choose from and also the ability to use your own handwriting style."
 }
